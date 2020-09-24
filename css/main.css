@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 100%;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  background-color: #2b2d42;
+}
+header,
+footer {
+  min-height: 5vh;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+.app__container {
+  width: 400px;
+}
+
+.app__container div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app__container input {
+  width: 150px;
+  padding: 5px 0;
+}
