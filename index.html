@@ -11,7 +11,9 @@
     <link rel="stylesheet" href="css/main.css" />
   </head>
   <body>
-    <header>APP</header>
+    <header class="app__header">
+      <img src="img/logo.png" alt="" />How tobacco saved my money !
+    </header>
     <main>
       <div id="app" class="app__container">
         <div>
@@ -19,18 +21,28 @@
           <input type="date" id="startDateInput" value="2020-01-01" />
         </div>
         <div>
-          <label for="">Number of cigarette by day</label>
+          <label for="">How many cigarette a day ?</label>
           <input type="number" id="cigarettesByDayInput" value="40" />
         </div>
         <div>
           <label for="">Packet Price</label>
           <input type="number" id="packetPriceInput" value="10" />
         </div>
+        <button id="button">How much I saved ?</button>
       </div>
-      <button id="button">How much I saved</button>
       <div id="results" class="results__container"></div>
     </main>
-    <footer>APP</footer>
+    <footer class="app__footer">
+      <a href="https://github.com/MehdiHan/" target="_blank" rel="noopener"
+        >Github</a
+      >
+      <a
+        href="https://www.instagram.com/im_codebreaker/"
+        target="_blank"
+        rel="noopener"
+        >Instagram</a
+      >
+    </footer>
     <script src="js/app.js"></script>
   </body>
 </html>
