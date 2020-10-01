@@ -1,0 +1,289 @@
+{
+  "brands": [
+    {
+      "brand": "Benson & Hedges",
+      "pack": [
+        {
+          "name": "Blue",
+          "price": 9.5
+        }
+      ]
+    },
+    {
+      "brand": "Camel",
+      "pack": [
+        {
+          "name": "Non-Filter",
+          "price": 9.8
+        },
+        {
+          "name": "Black",
+          "price": 9.8
+        },
+        {
+          "name": "Blue",
+          "price": 9.8
+        },
+        {
+          "name": "Essential",
+          "price": 9.8
+        },
+        {
+          "name": "Rigid Pack",
+          "price": 9.8
+        },
+        {
+          "name": "Soft Pack",
+          "price": 9.8
+        },
+        {
+          "name": "Shift",
+          "price": 9.8
+        },
+        {
+          "name": "Silver",
+          "price": 9.8
+        }
+      ]
+    },
+    {
+      "brand": "Chesterfield",
+      "pack": [
+        {
+          "name": "Blue",
+          "price": 9.8
+        },
+        {
+          "name": "Original Blue",
+          "price": 9.8
+        },
+        {
+          "name": "Original Red",
+          "price": 9.8
+        },
+        {
+          "name": "Red",
+          "price": 9.8
+        },
+        {
+          "name": "Slims Blue",
+          "price": 9.8
+        }
+      ]
+    },
+    {
+      "brand": "Craven A",
+      "pack": [
+        {
+          "name": "Red",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "brand": "Dunhill",
+      "pack": [
+        {
+          "name": "Blue",
+          "price": 10
+        },
+        {
+          "name": "Red",
+          "price": 10
+        },
+        {
+          "name": "Red Select",
+          "price": 10
+        },
+        {
+          "name": "Silver",
+          "price": 10.1
+        }
+      ]
+    },
+    {
+      "brand": "Gauloises",
+      "pack": [
+        {
+          "name": "Blondes Blue",
+          "price": 9.5
+        },
+        {
+          "name": "Blondes Red",
+          "price": 9.5
+        },
+        {
+          "name": "Blondes White",
+          "price": 9.5
+        },
+        {
+          "name": "Brunes",
+          "price": 10.6
+        },
+        {
+          "name": "Brown",
+          "price": 9.5
+        }
+      ]
+    },
+    {
+      "brand": "Gitanes",
+      "pack": [
+        {
+          "name": "Blue",
+          "price": 11
+        },
+        {
+          "name": "Blue & White",
+          "price": 11
+        },
+        {
+          "name": "Classic",
+          "price": 11
+        },
+        {
+          "name": "Dark Blue",
+          "price": 11
+        },
+        {
+          "name": "Yellow",
+          "price": 11
+        },
+        {
+          "name": "White",
+          "price": 11
+        }
+      ]
+    },
+    {
+      "brand": "Lucky Strike",
+      "pack": [
+        {
+          "name": "Blue",
+          "price": 9.5
+        },
+        {
+          "name": "Gold",
+          "price": 9.6
+        },
+        {
+          "name": "Red",
+          "price": 9.5
+        }
+      ]
+    },
+    {
+      "brand": "Marlboro",
+      "pack": [
+        {
+          "name": "Advance Blue",
+          "price": 10
+        },
+        {
+          "name": "Gold",
+          "price": 10
+        },
+        {
+          "name": "Gold Slims",
+          "price": 10
+        },
+        {
+          "name": "Gold Soft Pack",
+          "price": 10
+        },
+        {
+          "name": "Mix",
+          "price": 10
+        },
+        {
+          "name": "Red",
+          "price": 10
+        },
+        {
+          "name": "Red 100s",
+          "price": 9.5
+        },
+        {
+          "name": "Red Soft Pack",
+          "price": 9.5
+        }
+      ]
+    },
+    {
+      "brand": "Philip Morris",
+      "pack": [
+        {
+          "name": "Filter Kings",
+          "price": 9.8
+        },
+        {
+          "name": "Filter Kings Soft Pack",
+          "price": 9.8
+        }
+      ]
+    },
+    {
+      "brand": "Vogue",
+      "pack": [
+        {
+          "name": "Original Blue",
+          "price": 10
+        },
+        {
+          "name": "Original Pastel",
+          "price": 10
+        },
+        {
+          "name": "Original White",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "brand": "Winfield",
+      "pack": [
+        {
+          "name": "Red",
+          "price": 9.8
+        }
+      ]
+    },
+    {
+      "brand": "Winston",
+      "pack": [
+        {
+          "name": "Authentic",
+          "price": 9.6
+        },
+        {
+          "name": "Blue",
+          "price": 9.5
+        },
+        {
+          "name": "Classic",
+          "price": 9.5
+        },
+        {
+          "name": "Classic Soft Pack",
+          "price": 9.6
+        },
+        {
+          "name": "Silver",
+          "price": 9.6
+        },
+        {
+          "name": "Ssl",
+          "price": 9.5
+        },
+        {
+          "name": "White",
+          "price": 9.5
+        },
+        {
+          "name": "Xsphere",
+          "price": 9.5
+        }
+      ]
+    }
+  ]
+}
