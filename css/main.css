@@ -8,8 +8,13 @@ html {
 }
 body {
   font-family: 'Poppins', sans-serif;
-  color: #ffffff;
-  background-color: #2b2d42;
+  color: #2b2d42;
+  background-color: #ffffff;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 a {
   text-decoration: none;
@@ -41,29 +46,17 @@ button:hover {
   background-color: #d65734;
   transition: background-color 600ms;
 }
-.app__header {
-  display: flex;
-  align-items: center;
-  height: 40px;
+
+.brands__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
 }
-.app__header img {
-  margin: 0 20px;
-}
-.app__container {
-  width: 400px;
-}
-.app__container div {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.app__container input {
-  width: 150px;
-  padding: 5px 0;
-}
-.results__container {
-  margin-top: 2.75rem;
-}
+
 .app__footer {
   text-align: center;
+}
+
+.active {
+  border: 1px solid red;
 }

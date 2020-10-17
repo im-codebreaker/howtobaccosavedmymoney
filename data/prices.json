@@ -1,7 +1,8 @@
 {
   "brands": [
     {
-      "brand": "Benson & Hedges",
+      "name": "Benson & Hedges",
+      "url":"img/brand_benson_and_hedges.svg",
       "pack": [
         {
           "name": "Blue",
@@ -10,7 +11,8 @@
       ]
     },
     {
-      "brand": "Camel",
+      "name": "Camel",
+      "url":"img/brand_camel.svg",
       "pack": [
         {
           "name": "Non-Filter",
@@ -47,7 +49,8 @@
       ]
     },
     {
-      "brand": "Chesterfield",
+      "name": "Chesterfield",
+      "url":"img/brand_chesterfield.svg",
       "pack": [
         {
           "name": "Blue",
@@ -72,16 +75,8 @@
       ]
     },
     {
-      "brand": "Craven A",
-      "pack": [
-        {
-          "name": "Red",
-          "price": 10
-        }
-      ]
-    },
-    {
-      "brand": "Dunhill",
+      "name": "Dunhill",
+      "url":"img/brand_dunhill.svg",
       "pack": [
         {
           "name": "Blue",
@@ -102,7 +97,8 @@
       ]
     },
     {
-      "brand": "Gauloises",
+      "name": "Gauloises",
+      "url":"img/brand_gauloises.svg",
       "pack": [
         {
           "name": "Blondes Blue",
@@ -127,7 +123,8 @@
       ]
     },
     {
-      "brand": "Gitanes",
+      "name": "Gitanes",
+      "url":"img/brand_gitanes.svg",
       "pack": [
         {
           "name": "Blue",
@@ -156,7 +153,8 @@
       ]
     },
     {
-      "brand": "Lucky Strike",
+      "name": "Lucky Strike",
+      "url":"img/brand_lucky_strike.svg",
       "pack": [
         {
           "name": "Blue",
@@ -173,7 +171,8 @@
       ]
     },
     {
-      "brand": "Marlboro",
+      "name": "Marlboro",
+      "url":"img/brand_marlboro.svg",
       "pack": [
         {
           "name": "Advance Blue",
@@ -210,7 +209,8 @@
       ]
     },
     {
-      "brand": "Philip Morris",
+      "name": "Philip Morris",
+      "url":"img/brand_philip_morris.svg",
       "pack": [
         {
           "name": "Filter Kings",
@@ -223,7 +223,8 @@
       ]
     },
     {
-      "brand": "Vogue",
+      "name": "Vogue",
+      "url":"img/brand_vogue.svg",
       "pack": [
         {
           "name": "Original Blue",
@@ -240,7 +241,8 @@
       ]
     },
     {
-      "brand": "Winfield",
+      "name": "Winfield",
+      "url":"img/brand_winfield.svg",
       "pack": [
         {
           "name": "Red",
@@ -249,7 +251,8 @@
       ]
     },
     {
-      "brand": "Winston",
+      "name": "Winston",
+      "url":"img/brand_winston.svg",
       "pack": [
         {
           "name": "Authentic",
